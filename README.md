@@ -1,2 +1,2 @@
-# Php-Admin-Panel
+# Admin-Panel
  An Admin panel written in PHP
